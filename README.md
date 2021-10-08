@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on open source
 - 😄 Pronouns: he/His
 - ⚡ Fun fact: I speak 2 languages ( English, Hindi)
-- 🕹 Hobbies: Playing Pc Games (Fortnite, GTA 5)
+- 🕹 Hobbies:Pc gaming (Fortnite, GTA 5)
 <br/>
 <img align = "left" width = "48%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=anayatkhan1&layout=compact&theme=radical"/>
 <img align = "left" width = "47%" src = "https://github-readme-stats.vercel.app/api?username=anayatkhan1&show_icons=true&theme=radical"/>
