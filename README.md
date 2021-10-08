@@ -10,8 +10,8 @@
 - ⚡ Fun fact: I speak 2 languages ( English, Hindi)
 - 🕹 Hobbies:Pc gaming (Fortnite, GTA 5)
 <br/>
-<img align = "left" width = "48%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=anayatkhan1&layout=compact&theme=radical"/>
-<img align = "left" width = "47%" src = "https://github-readme-stats.vercel.app/api?username=anayatkhan1&show_icons=true&theme=radical"/>
+<img align = "left" width = "46%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=anayatkhan1&layout=compact&theme=radical"/>
+<img align = "left" width = "49%" src = "https://github-readme-stats.vercel.app/api?username=anayatkhan1&show_icons=true&theme=radical"/>
 
 ## Languages Tools:
 <img align = "left" height = "35px" src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
