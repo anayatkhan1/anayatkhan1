@@ -1,6 +1,6 @@
 ### Hello World, I'm Anayat  👋
 
- <img align="right" alt="GIF" src="/Anayat/code.gif" width="500" height="320" />
+ <img align="right" alt="GIF" src="Anayat/images/coder.gif" width="500" height="320" />
 
 ## I'm a Developer, Open source Contributor, Developer, Creator, and Mentor!!
 - ✍ You can find my projects here [portfolio]
