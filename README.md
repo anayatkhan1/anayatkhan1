@@ -23,3 +23,4 @@
 ### Talk with me, I am kinda awesome:
 
 <a href="https://www.linkedin.com/in/anayat-khan-5109571b1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="https://www.linkedin.com/in/anayat-khan-5109571b1/" width="40px" /></a>
+<a href="https://twitter.com/anayatkhan09" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="https://twitter.com/anayatkhan09" width="40px" /></a>
