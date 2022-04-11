@@ -1,9 +1,7 @@
 ### Hello World, I'm Anayat  👋
 <img align="right" alt="GIF" src="images/coder.gif" width="540" height="360" />
 
- ## I'm a Developer, Open source Contributor!!
-- 🔭 I’m learning Java
-- 🌱 I’m currently learning full stack Web developement.
+## I'm Learning java
 - 👯 I’m looking to collaborate on open source
 <br/>
 <img align = "left" width = "46%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=anayatkhan1&layout=compact&theme=radical"/>
