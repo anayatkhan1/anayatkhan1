@@ -1,7 +1,14 @@
 ### Hello World, I'm Anayat  👋
 <img align="right" alt="GIF" src="images/coder.gif" width="540" height="360" />
 
+ ## I'm a Developer, Open source Contributor!!
 
+- 🔭 I’m currently working on Python Project.
+- 🌱 I’m currently learning full stack Web developement.
+- 👯 I’m looking to collaborate on open source
+- 😄 Pronouns: he/His
+- ⚡ Fun fact: I speak 2 languages ( English, Hindi)
+- 🕹 Hobbies:Pc gaming (Fortnite, GTA 5)
 <br/>
 <img align = "left" width = "46%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=anayatkhan1&layout=compact&theme=radical"/>
 <img align = "left" width = "49%" src = "https://github-readme-stats.vercel.app/api?username=anayatkhan1&show_icons=true&theme=radical"/>
