@@ -1,7 +1,8 @@
 ### Hello World, I'm Anayat  👋
 <img align="right" alt="GIF" src="images/coder.gif" width="540" height="360" />
 
- 
+
+<br/>
 <img align = "left" width = "46%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=anayatkhan1&layout=compact&theme=radical"/>
 <img align = "left" width = "49%" src = "https://github-readme-stats.vercel.app/api?username=anayatkhan1&show_icons=true&theme=radical"/>
 
