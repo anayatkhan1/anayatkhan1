@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything### Hello World, I'm Anayat  👋
 <anayat khan is the computere the lowwer>..>>>!
- <img align="right" alt="GIF" src="https://github.com/anayatkhan1/anayatkhan1/blob/main/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/anayatkhan1/anayatkhan1/blob/main/coder.gif?raw=true" width="500" height="320" />
 
 
 ## I'm a Wife, Mother, Developer, Creator, and Mentor!!
