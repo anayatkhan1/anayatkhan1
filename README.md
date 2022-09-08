@@ -20,6 +20,6 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
 
-<img align="center" width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anayatkhan1&layout=compact&langs_count=8&theme=algolia"/>
+<img align="left" width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anayatkhan1&layout=compact&langs_count=8&theme=algolia"/>
 
-<img align="center" width="40%" alt="-anayatkhan Github Stats" src="https://github-readme-stats.vercel.app/api?username=anayatkhan1&show_icons=true&hide_border=true&theme=algolia"/>
+<img align="right" width="40%" alt="anayatkhan Github Stats" src="https://github-readme-stats.vercel.app/api?username=anayatkhan1&show_icons=true&hide_border=true&theme=algolia"/>
