@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Experienced software developer with a diverse skill set and a proven track record in adapting to various technologies. Committed to continuous learning and skill enhancement, I bring adaptability and a strong foundation to each dynamic project. Eager to embrace new technologies for ongoing enrichment and growth.</p>
+<p align="left">Software Engineer with a diverse skill set and a proven track record in adapting to various technologies. Committed to continuous learning and skill enhancement, I bring adaptability and a strong foundation to each dynamic project. Eager to embrace new technologies for ongoing enrichment and growth.</p>
 
 ###
 
