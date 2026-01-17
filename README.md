@@ -8,7 +8,10 @@
 
 ###
 
-<p align="left">Software Engineer with a diverse skill set and a proven track record in adapting to various technologies. Committed to continuous learning and skill enhancement, I bring adaptability and a strong foundation to each dynamic project. Eager to embrace new technologies for ongoing enrichment and growth.</p>
+<p align="left">          AI Agent Software Engineer with proven expertise building production
+          AI agents.  <br/> I deliver full-stack solutions with web search and
+          chat persistence. <br/>  Specializing in dynamic AI projects with
+          rapid iteration and deployment.</p>
 
 ###
 
